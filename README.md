@@ -11,5 +11,8 @@
 - Html, CSS, JS (Frontend)
 - Python (Backend)
 
-# LICENSE
+## Download?
+- No need, [click here](https://catsilly.github.io/fitum-bank-web/) to access Fitum Bank directly from your browser.
+
+## LICENSE
 - See the LICENSE files for more info.
