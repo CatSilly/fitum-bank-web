@@ -1,3 +1,4 @@
+> This project is temporarily suspended because it is too old.
 # Fitum Bank
 
 > Use Fitum like a game currency!
